@@ -17,5 +17,5 @@
 ## My portfolio
 
 <a href="https://leodev7.github.io/portfolio/">
-  <img src="https://media-exp1.licdn.com/dms/image/C4E22AQG9z6qeVu7exQ/feedshare-shrink_2048_1536/0?e=1597276800&v=beta&t=U0JHCi-EejDHzIgsxVHOYY4XNDT2UcRtu8KCPdNbf_o">
+  <img src="https://leodev7.github.io/portfolio/img/2.png">
 </a>

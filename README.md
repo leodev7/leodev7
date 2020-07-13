@@ -11,9 +11,7 @@
 
 ##
 
-👋 Hello world, enjoy!
-
-## My portfolio
+##👋 Hello world, enjoy!
 
 <a href="https://leodev7.github.io/portfolio/">
   <img src="https://leodev7.github.io/portfolio/img/2.png">

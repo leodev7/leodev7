@@ -11,13 +11,7 @@
 
 ##
 
-👋 Hello world 
-
-🤵 My name is Leonardo and i'm a Frontend Developer
-
-💙 Pure front-end and frameworks
-
-🎮 Valorant, CSGO, R6, Rocketleague
+👋 Hello world, enjoy!
 
 ## My portfolio
 
